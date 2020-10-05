@@ -1,6 +1,6 @@
 # arch-install
 
-[TOC]
+[toc]
 
 ## System Utilities
 
@@ -10,30 +10,45 @@
 
 `sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist`
 
+### `stow`
+
 ## Internet Utilities
 
 ### `aria2`
 
+### `curl`
+
+### `wget`
+
+apache 
+docker 
+docker-compose
+mariadb
+php
+openssh
+
+
 ## Build Tools
-cmake
-curl 
-make 
-stow
+
+### `cmake`
+
+### `make `
+
+## Languages
 python3 
 python-pip 
 nodejs 
 npm 
 ruby
-vim
-wget
 
+## Documentation
 doxygen 
-emacs 
 markdown 
 pandoc 
 texlive-core 
+vim
 
-
+## Fonts
 awesome-terminal-fonts 
 figlet 
 gucharmap 
@@ -58,7 +73,6 @@ lsd
 mpv
 mupdf
 neofetch
-openssh
 pass
 qutebrowser
 rclone
@@ -76,8 +90,4 @@ zip
 
 ripgrep
 
-apache 
-docker 
-docker-compose
-mariadb
-php
+
