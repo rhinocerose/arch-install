@@ -35,6 +35,28 @@ An open source utility that provides fast incremental file transfer.
 ### `apache`
 ### `mariadb`
 ### `php`
+
+## Services
+### `deluge`
+
+[Docker](https://hub.docker.com/r/linuxserver/deluge)
+### `plex`
+
+[Docker](https://hub.docker.com/r/linuxserver/plex)
+
+```
+sudo docker create \
+  --name=plex \
+  --net=host \
+  -e PUID=1000 \
+  -e PGID=1000 \
+  -e VERSION=docker \
+  -v /mnt/plexconfig:/config \
+  -v /mnt/TV/tv:/tv \
+  -v /mnt/Movies:/movies \
+  --restart unless-stopped \
+  linuxserver/plex
+  ```
 ### `samba`
 [Git](https://gitlab.com/samba-team/samba)
 
