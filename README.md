@@ -1,6 +1,6 @@
 # arch-install
 
-[toc]
+[TOC]
 
 ## System Utilities
 
