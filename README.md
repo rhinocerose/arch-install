@@ -18,114 +18,123 @@ A command line fuzzy file finder
 
 [Github](https://github.com/junegunn/fzf)
 
+#### `ripgrep`
+#### `sd`
+Intuitive find & replace CLI (sed alternative) 
 
-### `bat`
+[Github](https://github.com/chmln/sd)
+
+#### `bat`
 A cat(1) clone with syntax highlighting and Git integration.
 
 [Github](https://github.com/sharkdp/bat)
 
-### `coreutils`
+#### `coreutils`
+#### `git`
+#### `fish`
+#### `htop`
+#### `kitty`
+#### `neofetch`
+#### `pass`
+Password manager
 
+[Website](https://www.passwordstore.org/)
 
-
-### `git`
-
-
-
-### `fish`
-### `htop`
-### `kitty`
-### `neofetch`
-### `pass`
-
-
-### `reflector`
+#### `reflector`
 
 `sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist`
 
-### `ripgrep`
+#### `stow`
+#### `shellcheck`
 
-### `stow`
+#### `thefuck`
 
-### `sd`
+#### `tree`
 
-### `shellcheck`
+#### `unzip`
 
-### `thefuck`
-
-### `tree`
-
-### `unzip`
-
-### `zip`
+#### `zip`
 
 ## Internet Utilities
 
-### `aria2`
+### Connection Utilites
+#### `aria2`
+#### `curl`
+#### `openssh`
+#### `wget`
+#### `rclone`
+#### `rsync`
 
-### `curl`
+### Server Stack
+#### `apache`
+#### `mariadb`
+#### `php`
 
-### `wget`
-### `ansible`
-### `apache`
-### `docker`
-### `docker-compose`
-### `mariadb`
-### `php`
-### `openssh`
-### `qutebrowser`
-### `firefox`
-### `rclone`
-### `rsync`
-### `salt`
+### Provisioning
+#### `ansible`
+#### `salt`
+#### `docker`
+#### `docker-compose`
+
+### Browsers
+#### `qutebrowser`
+#### `firefox`
+
 
 ## Build Tools
 
-### `ceedling`
+#### `ceedling`
 
-### `cmake`
+#### `cmake`
 
-### `make `
+#### `make `
 
-### `meson`
+#### `meson`
 
-### `ninja`
+#### `ninja`
 
 ## Languages
 
-### `python3`
-### `python-pip`
-### `nodejs`
-### `npm`
-### `ruby`
-### `rust`
+### Embedded
+#### `arduino-cli`
+#### `stm32`
+
+### Others
+#### `python3`
+#### `python-pip`
+#### `nodejs`
+#### `npm`
+#### `ruby`
+#### `rust`
 
 ## Documentation
-### `doxygen`
-### `markdown` 
-### `pandoc`
-### `texlive-core`
-### `vim`
+#### `doxygen`
+#### `markdown` 
+#### `pandoc`
+#### `texlive-core`
+#### `vim`
 
 ## Fonts
-### `awesome-terminal-fonts`
-### `figlet`
-### `gucharmap`
-### `otf-font-awesome`
-### `otf-powerline-symbols`
-### `powerline-fonts`
-### `ttf-font-awesome` 
+#### `awesome-terminal-fonts`
+#### `figlet`
+#### `gucharmap`
+#### `otf-font-awesome`
+#### `otf-powerline-symbols`
+#### `powerline-fonts`
+#### `ttf-font-awesome` 
 
 ## GUI + Multimedia
-### `feh`
-### `i3-gaps`
-### `imagemagick`
-### `lsd`
-### `mpv`
-### `mupdf`
-### `rofi`
-### `zathura`
-### `zathura-pdf-mupdf`
+#### `feh`
+#### `i3-gaps`
+#### `imagemagick`
+#### `lsd`
+#### `mpv`
+#### `rofi`
+
+### PDF
+#### `mupdf`
+#### `zathura`
+#### `zathura-pdf-mupdf`
 
 
 
