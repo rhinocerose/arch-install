@@ -9,7 +9,7 @@ usermod -aG uucp lock USERNAME
 chmod 666 /dev/ttyACM? 
 ```
 
-Use `lsusb` to find bus and device for AVR-ISP and then set:
+Use `lsusb` (requires `pciutils` and `usbutils`) to find bus and device for AVR-ISP and then set:
 ```
 chown root:uucp /dev/bus/usb/BUS#/DEV#
 ```
