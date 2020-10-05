@@ -6,36 +6,8 @@
 
 [Development](https://github.com/rhinocerose/arch-install/blob/main/development.md)
 
+[Documentation Generation](https://github.com/rhinocerose/arch-install/blob/main/documentation-generation.md)
 
-## Documentation
-#### `doxygen`
-#### `markdown` 
-#### `pandoc`
-#### `texlive-core`
-#### `vim`
+[Fonts](https://github.com/rhinocerose/arch-install/blob/main/fonts.md)
 
-## Fonts
-#### `awesome-terminal-fonts`
-#### `figlet`
-#### `gucharmap`
-#### `otf-font-awesome`
-#### `otf-powerline-symbols`
-#### `powerline-fonts`
-#### `ttf-font-awesome` 
-
-## GUI + Multimedia
-#### `feh`
-#### `i3-gaps`
-#### `imagemagick`
-#### `lsd`
-#### `mpv`
-#### `rofi`
-
-### PDF
-#### `mupdf`
-#### `zathura`
-#### `zathura-pdf-mupdf`
-
-
-
-
+[Window Manager](https://github.com/rhinocerose/arch-install/blob/main/window.md)
