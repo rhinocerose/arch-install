@@ -1,7 +1,5 @@
 # arch-install
 
-[toc]
-
 ## System Utilities
 
 ### `bat`
@@ -10,7 +8,17 @@
 
 ### `fasd`
 
+### `fd`
+
 ### `git`
+
+### `fzf`
+### `fish`
+### `htop`
+### `kitty`
+### `neofetch`
+### `pass`
+
 
 ### `reflector`
 
@@ -30,6 +38,8 @@
 
 ### `unzip`
 
+### `zip`
+
 ## Internet Utilities
 
 ### `aria2`
@@ -37,67 +47,66 @@
 ### `curl`
 
 ### `wget`
-
-apache 
-docker 
-docker-compose
-mariadb
-php
-openssh
-qutebrowser
-firefox
+### `ansible`
+### `apache`
+### `docker`
+### `docker-compose`
+### `mariadb`
+### `php`
+### `openssh`
+### `qutebrowser`
+### `firefox`
+### `rclone`
+### `rsync`
+### `salt`
 
 ## Build Tools
+
+### `ceedling`
 
 ### `cmake`
 
 ### `make `
 
+### `meson`
+
+### `ninja`
+
 ## Languages
-python3 
-python-pip 
-nodejs 
-npm 
-ruby
+
+### `python3`
+### `python-pip`
+### `nodejs`
+### `npm`
+### `ruby`
+### `rust`
 
 ## Documentation
-doxygen 
-markdown 
-pandoc 
-texlive-core 
-vim
+### `doxygen`
+### `markdown` 
+### `pandoc`
+### `texlive-core`
+### `vim`
 
 ## Fonts
-awesome-terminal-fonts 
-figlet 
-gucharmap 
-otf-font-awesome 
-otf-powerline-symbols 
-powerline-fonts 
-ttf-font-awesome 
+### `awesome-terminal-fonts`
+### `figlet`
+### `gucharmap`
+### `otf-font-awesome`
+### `otf-powerline-symbols`
+### `powerline-fonts`
+### `ttf-font-awesome` 
 
-
-fd
-feh
-fzf
-fish
-htop
-i3-gaps
-imagemagick
-kitty
-lsd
-mpv
-mupdf
-neofetch
-pass
-rclone
-rsync
-rofi
-salt
-
-zathura
-zathura-pdf-mupdf
-zip
+## GUI + Multimedia
+### `feh`
+### `i3-gaps`
+### `imagemagick`
+### `lsd`
+### `mpv`
+### `mupdf`
+### `rofi`
+### `zathura`
+### `zathura-pdf-mupdf`
 
 
 
