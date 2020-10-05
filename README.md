@@ -3,6 +3,8 @@
 ## System Utilities
 
 ### `bat`
+A cat(1) clone with syntax highlighting and Git integration.
+[Github](https://github.com/sharkdp/bat)
 
 ### `coreutils`
 
