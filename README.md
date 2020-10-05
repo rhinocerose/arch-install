@@ -2,6 +2,7 @@
 
 ## System Utilities
 
+#### Search
 ### `bat`
 A cat(1) clone with syntax highlighting and Git integration.
 
