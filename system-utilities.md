@@ -1,4 +1,16 @@
 # System Utilities
+## Base Utilities
+### `coreutils`
+### `git`
+### `fish`
+### `htop`
+### `kitty`
+### `unzip`
+
+### `zip`
+
+### `pciutils` 
+### `usbutils`
 
 ## Search Utilities
 ### `fasd`
@@ -22,16 +34,13 @@ Intuitive find & replace CLI (sed alternative)
 
 [Github](https://github.com/chmln/sd)
 
+## Others
 ### `bat`
 A cat(1) clone with syntax highlighting and Git integration.
 
 [Github](https://github.com/sharkdp/bat)
 
-### `coreutils`
-### `git`
-### `fish`
-### `htop`
-### `kitty`
+
 ### `neofetch`
 ### `pass`
 Password manager
@@ -49,9 +58,4 @@ Password manager
 
 ### `tree`
 
-### `unzip`
 
-### `zip`
-
-### `pciutils` 
-### `usbutils`
