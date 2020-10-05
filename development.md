@@ -2,6 +2,17 @@
 
 ## Embedded
 ### `arduino-cli`
+#### Post Install Settings
+Add user to `uucp` and `lock` groups to avoid having to use `sudo` to program:
+```
+usermod -aG uucp lock USERNAME
+chmod 666 /dev/ttyACM? 
+```
+
+Use `lsusb` to find bus and device for AVR-ISP and then set:
+```
+chown root:uucp /dev/bus/usb/BUS#/DEV#
+```
 ### `stm32`
 
 ## Others
