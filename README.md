@@ -69,6 +69,8 @@ A command line tool and library for transferring data with URL syntax, supportin
 
 [Github](https://github.com/curl/curl)
 
+[Manual Page](https://curl.haxx.se/docs/manual.html)
+
 #### `openssh`
 
 #### `wget`
