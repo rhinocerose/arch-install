@@ -1,54 +1,54 @@
-## System Utilities
+# System Utilities
 
-### Search Utilities
-#### `fasd`
+## Search Utilities
+### `fasd`
 Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. 
 
 [Github](https://github.com/clvv/fasd)
 
-#### `fd`
+### `fd`
 A simple, fast and user-friendly alternative to 'find' 
 
 [Github](https://github.com/sharkdp/fd)
 
-#### `fzf`
+### `fzf`
 A command line fuzzy file finder
 
 [Github](https://github.com/junegunn/fzf)
 
-#### `ripgrep`
-#### `sd`
+### `ripgrep`
+### `sd`
 Intuitive find & replace CLI (sed alternative) 
 
 [Github](https://github.com/chmln/sd)
 
-#### `bat`
+### `bat`
 A cat(1) clone with syntax highlighting and Git integration.
 
 [Github](https://github.com/sharkdp/bat)
 
-#### `coreutils`
-#### `git`
-#### `fish`
-#### `htop`
-#### `kitty`
-#### `neofetch`
-#### `pass`
+### `coreutils`
+### `git`
+### `fish`
+### `htop`
+### `kitty`
+### `neofetch`
+### `pass`
 Password manager
 
 [Website](https://www.passwordstore.org/)
 
-#### `reflector`
+### `reflector`
 
 `sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist`
 
-#### `stow`
-#### `shellcheck`
+### `stow`
+### `shellcheck`
 
-#### `thefuck`
+### `thefuck`
 
-#### `tree`
+### `tree`
 
-#### `unzip`
+### `unzip`
 
-#### `zip`
+### `zip`
