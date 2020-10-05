@@ -35,12 +35,21 @@ An open source utility that provides fast incremental file transfer.
 ### `apache`
 ### `mariadb`
 ### `php`
+### `samba`
+[Git](https://gitlab.com/samba-team/samba)
+
+[Docker](https://github.com/dperson/samba)
+
 
 ## Provisioning
 ### `ansible`
 ### `salt`
 ### `docker`
 ### `docker-compose`
+### `portainer`
+Making Docker and Kubernetes management easy. 
+
+[Git](https://github.com/portainer/portainer)
 
 ## Browsers
 ### `qutebrowser`
