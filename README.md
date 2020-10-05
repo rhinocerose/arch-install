@@ -59,9 +59,13 @@ Password manager
 
 ### Connection Utilites
 #### `aria2`
+aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. 
+[Github](https://github.com/aria2/aria2)
 #### `curl`
 #### `openssh`
 #### `wget`
+_Maybe use aria2 or [wget2](https://github.com/rockdaboot/wget2) instead_
+[Github](https://github.com/mirror/wget)
 #### `rclone`
 #### `rsync`
 
