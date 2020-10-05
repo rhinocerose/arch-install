@@ -49,8 +49,14 @@ Password manager
 
 ### `reflector`
 
-`sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist`
+Select the 200 most recently synchronized HTTP or HTTPS mirrors, sort them by download speed, and overwrite the file /etc/pacman.d/mirrorlist: 
+```bash
+sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+```
 
+[ArchWiki](https://wiki.archlinux.org/index.php/Reflector)
+
+[Homepage](https://xyne.archlinux.ca/projects/reflector/)
 ### `stow`
 ### `shellcheck`
 
