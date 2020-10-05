@@ -1,5 +1,7 @@
 # arch-install
 
+[toc]
+
 ## System Utilities
 
 ### `git`
@@ -8,9 +10,11 @@
 
 `sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist`
 
+## Internet Utilities
 
+### `aria2`
 
-aria2 
+## Build Tools
 cmake
 curl 
 make 
