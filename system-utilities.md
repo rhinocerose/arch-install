@@ -52,3 +52,6 @@ Password manager
 ### `unzip`
 
 ### `zip`
+
+### `pciutils` 
+### `usbutils`
