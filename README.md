@@ -4,13 +4,31 @@
 
 ## System Utilities
 
+### `bat`
+
+### `coreutils`
+
+### `fasd`
+
 ### `git`
 
 ### `reflector`
 
 `sudo reflector --latest 200 --protocol http --protocol https --sort rate --save /etc/pacman.d/mirrorlist`
 
+### `ripgrep`
+
 ### `stow`
+
+### `sd`
+
+### `shellcheck`
+
+### `thefuck`
+
+### `tree`
+
+### `unzip`
 
 ## Internet Utilities
 
@@ -26,7 +44,8 @@ docker-compose
 mariadb
 php
 openssh
-
+qutebrowser
+firefox
 
 ## Build Tools
 
@@ -57,10 +76,7 @@ otf-powerline-symbols
 powerline-fonts 
 ttf-font-awesome 
 
-bat
-coreutils
-docker
-fasd
+
 fd
 feh
 fzf
@@ -74,20 +90,15 @@ mpv
 mupdf
 neofetch
 pass
-qutebrowser
 rclone
 rsync
 rofi
 salt
-sd
-shellcheck
-thefuck
-tree
-unzip
+
 zathura
 zathura-pdf-mupdf
 zip
 
-ripgrep
+
 
 
