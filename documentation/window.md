@@ -4,7 +4,9 @@
 ### `imagemagick`
 ### `lsd`
 ### `mpv`
+### `polybar`
 ### `rofi`
+### `tizonia`
 
 ## PDF
 ### `mupdf`
