@@ -1,9 +1,16 @@
 # System Utilities
 ## Base Utilities
+### `bpytop` (AUR or pip)
+Linux/OSX/FreeBSD resource monitor (python version of `bashtop`)
+
+[Git](https://github.com/aristocratos/bpytop)
 ### `coreutils`
 ### `git`
 ### `fish`
 ### `htop`
+htop - an interactive process viewer 
+
+[Git](https://github.com/htop-dev/htop)
 ### `kitty`
 ### `unzip`
 ### `caps2esc` (AUR)
