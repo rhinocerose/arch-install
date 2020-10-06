@@ -24,7 +24,7 @@
 
 ## Packages to Include
 
-[System Utilities](https://github.com/rhinocerose/arch-install/blob/main/documentation/system-utilities.md)
+- [ ] [System Utilities](https://github.com/rhinocerose/arch-install/blob/main/documentation/system-utilities.md)
 
 [Internet Utilities](https://github.com/rhinocerose/arch-install/blob/main/documentation/internet-utilities.md)
 
