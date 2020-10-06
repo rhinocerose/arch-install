@@ -46,6 +46,10 @@ A cat(1) clone with syntax highlighting and Git integration.
 
 
 ### `neofetch`
+A command-line system information tool written in bash 3.2+ 
+
+[Git](https://github.com/dylanaraps/neofetch)
+
 ### `pass`
 Password manager
 
