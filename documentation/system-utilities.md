@@ -29,6 +29,10 @@ A command line fuzzy file finder
 [Github](https://github.com/junegunn/fzf)
 
 ### `ripgrep`
+ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+
+[Git](https://github.com/BurntSushi/ripgrep)
+
 ### `sd`
 Intuitive find & replace CLI (sed alternative) 
 
