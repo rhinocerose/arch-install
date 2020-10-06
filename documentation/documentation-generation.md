@@ -2,5 +2,8 @@
 ### `doxygen`
 ### `markdown` 
 ### `pandoc`
-### `texlive-core`
 ### `vim`
+
+## LaTeX
+### `texlive-core`
+### `tllocalmgr`
