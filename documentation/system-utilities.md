@@ -6,7 +6,7 @@
 ### `htop`
 ### `kitty`
 ### `unzip`
-
+### `caps2esc` (AUR)
 ### `zip`
 
 ### `pciutils` 
@@ -64,4 +64,5 @@ sudo reflector --latest 200 --protocol http --protocol https --sort rate --save 
 
 ### `tree`
 
-
+### `tealdeer`
+### `tldr`
