@@ -35,6 +35,13 @@ A command line fuzzy file finder
 
 [Github](https://github.com/junegunn/fzf)
 
+### `ntpd`
+Set time based on network time
+
+```bash
+sudo ntpd -qg
+```
+
 ### `ripgrep`
 ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
