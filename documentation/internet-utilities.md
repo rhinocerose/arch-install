@@ -40,6 +40,21 @@ An open source utility that provides fast incremental file transfer.
 ### `deluge`
 
 [Docker](https://hub.docker.com/r/linuxserver/deluge)
+
+### `heimdall`
+An Application dashboard and launcher 
+
+[Git](https://github.com/linuxserver/Heimdall)
+
+[Docker](https://hub.docker.com/r/linuxserver/heimdall)
+
+
+
+### `scrutiny`
+`smartd` hard drive monitor
+
+[Docker](https://hub.docker.com/r/linuxserver/scrutiny)
+
 ### `plex`
 
 [Docker](https://hub.docker.com/r/linuxserver/plex)
@@ -57,10 +72,49 @@ sudo docker create \
   --restart unless-stopped \
   linuxserver/plex
   ```
+
+### `tautuili`
+Plex analytics
+
+[Docker](https://hub.docker.com/r/linuxserver/tautulli)
+
 ### `samba`
 [Git](https://gitlab.com/samba-team/samba)
 
 [Docker](https://github.com/dperson/samba)
+
+### `raneto`
+Knowledge base /Wiki
+
+[Docker](https://hub.docker.com/r/linuxserver/raneto)
+
+### `codimd`
+Collective Markdown editor
+
+[Docker](https://hub.docker.com/r/linuxserver/codimd)
+
+### `beets`
+Audio server
+
+[Docker](https://hub.docker.com/r/linuxserver/beets)
+
+### `mcloud`
+Music streaming server
+
+[Docker](https://hub.docker.com/r/linuxserver/mstream)
+
+### `booksonic`
+Audiobook server
+
+[Docker](https://hub.docker.com/r/linuxserver/booksonic)
+
+## Downloading
+
+### `sonarr`
+TV Downloading
+
+[Docker](https://hub.docker.com/r/linuxserver/sonarr)
+
 
 
 ## Provisioning
@@ -68,6 +122,12 @@ sudo docker create \
 ### `salt`
 ### `docker`
 ### `docker-compose`
+
+### `taisun`
+Docker desktop monitor
+
+[Docker](https://hub.docker.com/r/linuxserver/taisun
+
 ### `portainer`
 Making Docker and Kubernetes management easy. 
 
@@ -76,3 +136,26 @@ Making Docker and Kubernetes management easy.
 ## Browsers
 ### `qutebrowser`
 ### `firefox`
+
+## Remote Desktop Clients
+
+### `remmmina`
+Remote desktop client
+
+[Docker](https://hub.docker.com/r/linuxserver/remmina)
+
+### `guacd`
+Remote desktop client
+
+[Docker](https://hub.docker.com/r/linuxserver/guacd)
+
+## Filesharing
+
+### `pydio-cells`
+[Docker](https://hub.docker.com/r/linuxserver/pydio-cells)
+
+### `nextcloud`
+[Docker](https://hub.docker.com/r/linuxserver/nextcloud)
+
+### `syncthing`
+[Docker](https://hub.docker.com/r/linuxserver/syncthing)
