@@ -8,6 +8,8 @@
 - [Earnestly](https://github.com/Earnestly/pkgbuilds/tree/master/system-config)
 - [AWS Hosted Custom Repository](https://disconnected.systems/blog/archlinux-repo-in-aws-bucket/)
 
+### Secured Installs
+- [Industrial Strength Arch](https://blog.tjll.net/industrial-strength-arch-linux/)
 
 ### Ansible-based
 - [Spark](https://github.com/pigmonkey/spark)
