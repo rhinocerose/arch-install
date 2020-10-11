@@ -48,6 +48,10 @@ An Application dashboard and launcher
 
 [Docker](https://hub.docker.com/r/linuxserver/heimdall)
 
+### `papermerge`
+Document management system
+
+[Docker](https://hub.docker.com/r/linuxserver/papermerge)
 
 
 ### `scrutiny`
@@ -97,6 +101,11 @@ Collective Markdown editor
 Audio server
 
 [Docker](https://hub.docker.com/r/linuxserver/beets)
+
+### `airsonic`
+Audio streamer
+
+[Docker](https://hub.docker.com/r/linuxserver/airsonic)
 
 ### `mcloud`
 Music streaming server
