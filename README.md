@@ -10,6 +10,7 @@
 
 ### Secured Installs
 - [Industrial Strength Arch](https://blog.tjll.net/industrial-strength-arch-linux/)
+- [Bullet-proof Arch Install](https://wiki.archlinux.org/index.php/User:Altercation/Bullet_Proof_Arch_Install)
 
 ### Ansible-based
 - [Spark](https://github.com/pigmonkey/spark)
