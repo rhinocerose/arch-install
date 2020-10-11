@@ -63,6 +63,7 @@ Document management system
 
 [Docker](https://hub.docker.com/r/linuxserver/plex)
 
+Docker:
 ```
 sudo docker create \
   --name=plex \
@@ -76,6 +77,28 @@ sudo docker create \
   --restart unless-stopped \
   linuxserver/plex
   ```
+
+Docker-compose:
+```
+---
+version: "2.1"
+services:
+  plex:
+    image: linuxserver/plex
+    container_name: plex
+    network_mode: host
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - VERSION=docker
+      - UMASK_SET=022 #optional
+      - PLEX_CLAIM= #optional
+    volumes:
+      - /path/to/library:/config
+      - /path/to/tvseries:/tv
+      - /path/to/movies:/movies
+    restart: unless-stopped
+```
 
 ### `tautuili`
 Plex analytics
@@ -96,6 +119,11 @@ Knowledge base /Wiki
 Collective Markdown editor
 
 [Docker](https://hub.docker.com/r/linuxserver/codimd)
+
+### `bookstack`
+Wiki
+
+[Docker](https://hub.docker.com/r/linuxserver/bookstack)
 
 ### `beets`
 Audio server
