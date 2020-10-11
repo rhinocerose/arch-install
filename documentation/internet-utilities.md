@@ -105,25 +105,19 @@ Plex analytics
 
 [Docker](https://hub.docker.com/r/linuxserver/tautulli)
 
+
+
+## Downloading
+
+### `sonarr`
+TV Downloading
+
+[Docker](https://hub.docker.com/r/linuxserver/sonarr)
+
 ### `samba`
 [Git](https://gitlab.com/samba-team/samba)
 
 [Docker](https://github.com/dperson/samba)
-
-### `raneto`
-Knowledge base /Wiki
-
-[Docker](https://hub.docker.com/r/linuxserver/raneto)
-
-### `codimd`
-Collective Markdown editor
-
-[Docker](https://hub.docker.com/r/linuxserver/codimd)
-
-### `bookstack`
-Wiki
-
-[Docker](https://hub.docker.com/r/linuxserver/bookstack)
 
 ### `beets`
 Audio server
@@ -145,14 +139,22 @@ Audiobook server
 
 [Docker](https://hub.docker.com/r/linuxserver/booksonic)
 
-## Downloading
+## Wiki & KMS
 
-### `sonarr`
-TV Downloading
+### `raneto`
+Knowledge base /Wiki
 
-[Docker](https://hub.docker.com/r/linuxserver/sonarr)
+[Docker](https://hub.docker.com/r/linuxserver/raneto)
 
+### `codimd`
+Collective Markdown editor
 
+[Docker](https://hub.docker.com/r/linuxserver/codimd)
+
+### `bookstack`
+Wiki
+
+[Docker](https://hub.docker.com/r/linuxserver/bookstack)
 
 ## Provisioning
 ### `ansible`
@@ -160,15 +162,6 @@ TV Downloading
 ### `docker`
 ### `docker-compose`
 
-### `taisun`
-Docker desktop monitor
-
-[Docker](https://hub.docker.com/r/linuxserver/taisun
-
-### `portainer`
-Making Docker and Kubernetes management easy. 
-
-[Git](https://github.com/portainer/portainer)
 
 ## Browsers
 ### `qutebrowser`
@@ -196,3 +189,21 @@ Remote desktop client
 
 ### `syncthing`
 [Docker](https://hub.docker.com/r/linuxserver/syncthing)
+
+## Docker Analytics
+[Reddit list](https://www.reddit.com/r/docker/comments/j7j915/top_gui_for_docker/)
+
+### `taisun`
+Docker desktop monitor
+
+[Docker](https://hub.docker.com/r/linuxserver/taisun)
+
+### `portainer`
+Making Docker and Kubernetes management easy. 
+
+[Git](https://github.com/portainer/portainer)
+
+### `ctop`
+Top-like interface for container metrics 
+
+[Git](https://github.com/bcicen/ctop)
