@@ -69,6 +69,10 @@ Password manager
 
 [Website](https://www.passwordstore.org/)
 
+### `rofi-pass`
+
+[Git](https://github.com/carnager/rofi-pass)
+
 ### `reflector`
 
 Select the 200 most recently synchronized HTTP or HTTPS mirrors, sort them by download speed, and overwrite the file /etc/pacman.d/mirrorlist: 
